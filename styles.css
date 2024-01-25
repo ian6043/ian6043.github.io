@@ -46,6 +46,12 @@ body{
     width: 25%;
     margin: 0 auto;
 }
+.amazon-image{
+    display: block;
+    padding: 5px;
+    width: 25%;
+    margin: 0 ;
+}
 .other-image{
     display: block;
     margin: 10px auto;
