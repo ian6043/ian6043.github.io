@@ -39,7 +39,7 @@ body{
 .hero-section {
     position: relative;
     height: 63vh; /* Adjust the height of the hero section */
-    background: url('images/thom-milkovic-skUTVJi8-jc-unsplash.jpg') center/cover no-repeat;
+    /* background: url('images/thom-milkovic-skUTVJi8-jc-unsplash.jpg') center/cover no-repeat; */
     display: flex;
     align-items: center;
     justify-content: center;
